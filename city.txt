@@ -1,1 +1,1 @@
-City : "Enter your city"
+City : "Mettupalayam"
